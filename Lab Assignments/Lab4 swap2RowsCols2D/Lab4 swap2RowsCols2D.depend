@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521003005 source:c:\users\serene\desktop\c files\lab4 swap2rowscols2d\main.c
+	<stdio.h>
+	<stdlib.h>
+

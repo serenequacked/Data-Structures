@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516845548 source:c:\users\serene\desktop\c files\cz1007 lab 2 - question 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

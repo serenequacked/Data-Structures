@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521005112 source:c:\users\serene\desktop\c files\lab4 reducematrix2d\main.c
+	<stdio.h>
+	<stdlib.h>
+

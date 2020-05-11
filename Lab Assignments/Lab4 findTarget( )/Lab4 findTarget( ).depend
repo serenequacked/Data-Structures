@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520999350 source:c:\users\serene\desktop\c files\lab4 findtarget( )\main.c
+	<stdio.h>
+	<stdlib.h>
+
